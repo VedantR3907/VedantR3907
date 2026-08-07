@@ -5,12 +5,12 @@
   <img src="./assets/retro-terminal-world.gif" width="100%" alt="Vedant's animated retro-futurist AI control room" />
 </picture>
 
-# Hey, I'm Vedant ðŸ‘‹
+# Hey, I'm Vedant 👋
 
-### AI/ML Engineer Â· Computer Vision Â· LLMs Â· RAG Â· Agentic Systems
+### AI/ML Engineer · Computer Vision · LLMs · RAG · Agentic Systems
 
 <p>
-  <a href="https://huggingface.co/Vedant3907"><img src="https://img.shields.io/badge/ðŸ¤—_Hugging_Face-Vedant3907-FFD21E?style=for-the-badge&labelColor=111827" alt="Hugging Face" /></a>
+  <a href="https://huggingface.co/Vedant3907"><img src="https://img.shields.io/badge/🤗_Hugging_Face-Vedant3907-FFD21E?style=for-the-badge&labelColor=111827" alt="Hugging Face" /></a>
   <a href="https://github.com/VedantR3907"><img src="https://img.shields.io/badge/GitHub-VedantR3907-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://veedant.dev"><img src="https://img.shields.io/badge/Portfolio-veedant.dev-2DD4BF?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a>
 </p>
@@ -19,7 +19,7 @@
 
 </div>
 
-## ðŸ¤— Open source, but make it Hugging Face
+## 🤗 Open source, but make it Hugging Face
 
 I publish models, datasets, and demos for multilingual AI, computer vision, and delightfully specific experiments.
 
@@ -31,22 +31,22 @@ I publish models, datasets, and demos for multilingual AI, computer vision, and 
 
 </div>
 
-| ðŸ§  Model / dataset | What escaped the lab |
+| 🧠 Model / dataset | What escaped the lab |
 |---|---|
-| [Hinglish Gemma 4B â€” GGUF](https://huggingface.co/Vedant3907/Hinglish-Gemma-4B-E4b-GGUF) | A locally runnable Hinglish model, because switching languages mid-sentence is a feature. |
+| [Hinglish Gemma 4B — GGUF](https://huggingface.co/Vedant3907/Hinglish-Gemma-4B-E4b-GGUF) | A locally runnable Hinglish model, because switching languages mid-sentence is a feature. |
 | [Qwen2-VL Amazon ML Challenge](https://huggingface.co/Vedant3907/qwen2-vl-2b-finetuned-amazon-ml-challenge-2025) | A fine-tuned vision-language model for product understanding. |
 | [Text-to-SQL Llama 3.1 8B](https://huggingface.co/Vedant3907/Text-to-Sql-llama3.1-8B) | Turns questions into SQL; database tables may now feel perceived. |
 | [Hindi Sign Language Dataset](https://huggingface.co/datasets/Vedant3907/Hindi-Sign-Language-Dataset) | Open data for more inclusive sign-language systems. |
 | [Numbers Sign Language Dataset](https://huggingface.co/datasets/Vedant3907/Numbers-Sign-Language-Dataset) | Hand-sign number data for recognition experiments. |
 | [Irish Folk Tune Generator](https://huggingface.co/spaces/Vedant3907/gpt2-irish-folk-tune-generator-space) | A live GPT-2 demo that writes Irish folk tunes. Yes, the model has a musical side quest. |
 
-## ðŸ› ï¸ Things I shipped while the model was â€œjust one epoch awayâ€
+## 🛠️ Things I shipped while the model was “just one epoch away”
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ§ª [Hybrid Agent Tool Benchmark](https://github.com/VedantR3907/Hybrid-Agent-Tool-Benchmark)
+### 🧪 [Hybrid Agent Tool Benchmark](https://github.com/VedantR3907/Hybrid-Agent-Tool-Benchmark)
 
 Compares function-tool and CLI agents on long-file and CSV reasoning tasks, with chunked reads and overflow controls.
 
@@ -55,9 +55,9 @@ Compares function-tool and CLI agents on long-file and CSV reasoning tasks, with
 </td>
 <td width="50%" valign="top">
 
-### ðŸ—£ï¸ [Local AI Avatar](https://github.com/VedantR3907/local-ai-avatar)
+### 🗣️ [Local AI Avatar](https://github.com/VedantR3907/local-ai-avatar)
 
-A real-time voice agent with LLM replies, lip-sync, and talking-face videoâ€”all running locally.
+A real-time voice agent with LLM replies, lip-sync, and talking-face video—all running locally.
 
 `voice-ai` `lip-sync` `local-first`
 
@@ -66,7 +66,7 @@ A real-time voice agent with LLM replies, lip-sync, and talking-face videoâ€�
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ“„ [PDF ToC Extractorâ€”No LLM](https://github.com/VedantR3907/Table-of-Contents-Extractor-PDFs-Without-Using-LLM)
+### 📄 [PDF ToC Extractor—No LLM](https://github.com/VedantR3907/Table-of-Contents-Extractor-PDFs-Without-Using-LLM)
 
 Extracts a table of contents without asking an LLM to read the whole PDF. Small models everywhere applaud the restraint.
 
@@ -75,7 +75,7 @@ Extracts a table of contents without asking an LLM to read the whole PDF. Small 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ–ï¸ [Multilingual Hand-Sign Recognition](https://github.com/VedantR3907/Handsign-recognition-for-HIN-GUJ-ENG-with-voiceovers)
+### 🖐️ [Multilingual Hand-Sign Recognition](https://github.com/VedantR3907/Handsign-recognition-for-HIN-GUJ-ENG-with-voiceovers)
 
 Recognizes signs across Hindi, Gujarati, and English, then adds voice output.
 
@@ -85,7 +85,7 @@ Recognizes signs across Hindi, Gujarati, and English, then adds voice output.
 </tr>
 </table>
 
-## âš™ï¸ My current operating system
+## ⚙️ My current operating system
 
 ```python
 while alive:
@@ -108,7 +108,7 @@ while alive:
 
 </div>
 
-## ðŸ My contributions, now with 100% more snake
+## 🐍 My contributions, now with 100% more snake
 
 <div align="center">
 
@@ -123,7 +123,7 @@ while alive:
 </div>
 
 <details>
-<summary><b>ðŸ“Š Open the serious-looking dashboard</b></summary>
+<summary><b>📊 Open the serious-looking dashboard</b></summary>
 <br />
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=VedantR3907&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Vedant's GitHub stats" />
@@ -137,7 +137,7 @@ while alive:
 
 ### Want to build something intelligent, useful, or enjoyably weird?
 
-[Open an issue](https://github.com/VedantR3907/VedantR3907/issues) Â· [Explore my Hugging Face](https://huggingface.co/Vedant3907) Â· [Visit my portfolio](https://veedant.dev)
+[Open an issue](https://github.com/VedantR3907/VedantR3907/issues) · [Explore my Hugging Face](https://huggingface.co/Vedant3907) · [Visit my portfolio](https://veedant.dev)
 
 <sub>Made with Python, questionable amounts of caffeine, and one very patient GPU.</sub>
 
