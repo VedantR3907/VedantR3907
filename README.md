@@ -23,35 +23,6 @@ I build AI systems by understanding what happens **inside the model**, not just 
 
 ---
 
-## `// HOW_A_MODEL_GETS_TO_PRODUCTION`
-
-The part that isn't the notebook.
-
-```mermaid
-flowchart LR
-    A[raw data] --> B[curate + format]
-    B --> C{fine-tune}
-    C -->|SFT| D[base behaviour]
-    C -->|DPO| E[preference aligned]
-    C -->|LoRA / QLoRA| F[cheap + swappable]
-    D --> G[evaluate]
-    E --> G
-    F --> G
-    G -->|fails| B
-    G -->|passes| H[quantize / GGUF]
-    H --> I[FastAPI + websockets]
-    I --> J[shipped]
-
-    style A fill:#f3efe8,stroke:#2d2d2b,stroke-width:2px,color:#2d2d2b
-    style C fill:#d97757,stroke:#2d2d2b,stroke-width:2px,color:#2d2d2b
-    style G fill:#e6b55c,stroke:#2d2d2b,stroke-width:2px,color:#2d2d2b
-    style J fill:#8bc48e,stroke:#2d2d2b,stroke-width:2px,color:#2d2d2b
-```
-
-The loop back from **evaluate** to **curate** is the job. Everything else is plumbing.
-
----
-
 ## `// ARTIFACTS` — open models, datasets & demos
 
 <div align="center">
