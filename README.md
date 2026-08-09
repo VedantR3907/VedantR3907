@@ -23,6 +23,23 @@ I build AI systems by understanding what happens **inside the model**, not just 
 
 ---
 
+## `// PIPELINE`
+
+How a model actually gets from raw data to something serving traffic. The loop
+back from **evaluate** to **curate** is the job; everything else is plumbing.
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/pipeline-light.svg" />
+  <img src="./assets/pipeline-light.svg" width="100%" alt="Pipeline: data, fine-tune, evaluate, quantize, serve, with a feedback loop from evaluate back to data" />
+</picture>
+
+</div>
+
+---
+
 ## `// ARTIFACTS` — open models, datasets & demos
 
 <div align="center">
